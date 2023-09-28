@@ -1,6 +1,3 @@
-# 323proj
-hw #1
-
 # CPSC 323 Project 1 Lexical Analyzer
 
 ## Overview
@@ -23,5 +20,7 @@ python3 lexer.py
 
 ## Authors
 Kevin Le
+<br>
 Christine Le
+<br>
 Alex Ly
