@@ -6,7 +6,7 @@ This program is a lexer, which takes an input source code file and tokenizes it 
 ## Setup
 Clone or download this repository to your local machine
 ```bash
-git clone https://github.com/your-username/your-repo.git
+git clone https://github.com/kevinvqle/323proj.git
 ```
 Make sure you have an input source code file (e.g. **input_scode.txt**) in the same directory as the **lexer.py** script. You can replace this file with your own source code.
 
