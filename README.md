@@ -11,10 +11,10 @@ git clone https://github.com/kevinvqle/323proj.git
 Make sure you have an input source code file (e.g. **input_scode.txt**) in the same directory as the **lexer.py** script. You can replace this file with your own source code.
 
 ## Usage
-1. Open a terminal and navigate to the directory where the **lexer.py** script is located.
+1. Open a terminal and navigate to the directory where the **lexAnalyzer.py** script is located.
 2. Run the lexer by exexuting the following command. 
 ```bash
-python3 lexer.py
+python3 lexAnalyzer.py
 ```
 3. The lexer will process the inpur source code file and generate an output file named **output.txt**. This file will contian a list of tokens and their corresponding lexemes.
 
